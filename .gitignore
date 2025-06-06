@@ -1,0 +1,8 @@
+build/
+__pycache__/
+.DS_Store
+.env
+node_modules/
+.venv/
+*.log
+dist/
